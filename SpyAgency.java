@@ -1,6 +1,6 @@
 // Program perekrutan agen mata-mata 'The Silent Agency'
 import java.util.Scanner;
-public class ComplicatedReal {
+public class SpyAgency {
     public static void main(String[] args) {
         Scanner scan1 = new Scanner(System.in);
         Scanner scan2 = new Scanner(System.in);
